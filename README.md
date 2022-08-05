@@ -1,2 +1,2 @@
-# Sol_digitacoes
- Projeto criado apos o fim do curso (CBD)
+# exercicio_1605_php_crud
+ exercicio com banco de dados e php
